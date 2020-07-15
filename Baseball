@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Modak&display=swap" rel="stylesheet">
+  </head>
+  <title>Baseball Site</title>
+      <body>
+        <div class = "header">
+        <span>A Baseball Website</span>
+        </div>
+        <main>
+          <div class = "bases">
+          <p>Bases Loaded!</p>
+          </div>
+          <div class = "Pop">
+            <p>Guess The Yankees Players! </p>
+          </div>
+          <container class = "players">
+            <div class = "judge">
+
+            <img class = "judge-color" src ="https://i.ibb.co/7vG9sMr/judge-color.png">
+            <img class = "judge-shadow" src ="https://i.ibb.co/T1NhxZK/judgeshadow2.png">
+
+            </div>
+            <div class = "djlm">
+            <img class = "djlm-color" src = "https://i.ibb.co/9rcvLHy/DJLMcolor.png">
+            <img class = "djlm-shadow" src = "https://i.ibb.co/rbS2Bkd/DJLMshadow.png">
+            </div>
+          </container>
+ 
+      
+        
+       
